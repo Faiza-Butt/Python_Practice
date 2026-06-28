@@ -28,6 +28,4 @@ Here are the programs I am currently working on to practice my Python skills:
 * **Language:** Python 3.x
 * **IDE:** Visual Studio Code (VS Code)
 * **Format:** Jupyter Notebooks (`.ipynb`) / Standard Python Files (`.py`)
-- [x] Master Python Variables and Data Types
-- [ ] Learn Lists, Tuples, and Dictionaries
-- [ ] Understand Functions and Object-Oriented Programming (OOP)
+-

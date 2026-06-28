@@ -28,4 +28,3 @@ Here are the programs I am currently working on to practice my Python skills:
 * **Language:** Python 3.x
 * **IDE:** Visual Studio Code (VS Code)
 * **Format:** Jupyter Notebooks (`.ipynb`) / Standard Python Files (`.py`)
--
